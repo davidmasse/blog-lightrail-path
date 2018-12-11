@@ -28,4 +28,4 @@ The nine times riders must wait 23-28 minutes for an HBLR departure are all afte
 
 ![waits](graphs/waits.png)
 
-7:36PM is still very much part of the evening rush hour, and many commuters would be better served by more HBLR departures from Hoboken 7:00-9:00PM.  A 26-minute wait between PATH and HBLR legs could easily push a commute to over an hour - without including time getting to the PATH in Manhattan and walking time from HBLR to home in New Jersey.  HBLR departures from Hoboken 5:00-6:15 could be reduced slightly to compensate if necessary.
+7:36PM is still very much part of the evening rush hour, and many commuters would be better served by more HBLR departures from Hoboken 7:00-9:00PM.  A 26-minute wait between PATH and HBLR legs could easily push a commute to over an hour - without including time getting to the PATH in Manhattan and walking time from HBLR to home in New Jersey.  HBLR departures from Hoboken 5:00-6:15 could be reduced slightly to compensate if necessary.  The result would be a reduction in typical wait times from 3-16 minutes to 3-12 minutes.
