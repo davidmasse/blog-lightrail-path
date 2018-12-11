@@ -11,19 +11,19 @@ For now I have not used APIs provided by NJ Transit (operator of HBLR) or Port A
 
 I would be ideal if riders could move from PATH to HBLR platforms at Hoboken (a 3-5 minute walk) and then depart on HBLR within a few minutes, but this is impossible as PATH usually runs much more frequently than HBLR (at certain hours three times more) and does not shut down between about 2:00AM and 5:00am:
 
-![times](times.png)
+![times](graphs/times.png)
 
 Notice that deviations mostly occur after 7:15pm, when HBLR trains are scarce, and 5:00-6:15am, when there are three times more HBLR trains departing than PATH trains arriving.
 
 Given that it takes up to 5 minutes to move from PATH to HBLR platforms, for most of the day when both PATH and HBRL are running, mean wait times are just over 9 minutes with standard deviation of just under 7 minutes.  However, the distribution is far from normal:
 
-![hist](hist.png)
+![hist](graphs/hist.png)
 
 
 ### Recommendation
 
 The nine times riders must wait 23-28 minutes for an HBLR departure are all after 7:15pm, when there are generally 2-3 PATH arrivals per HBLR departure.  For example, riders arriving on PATH trains at 7:16PM and 7:26PM must both board the HBLR train at 7:37PM, the former waiting 16 minutes and the latter 6 on the platform (after their 5-minute walk between platforms).  The next HBLR train is not until 8:07, serving riders from three PATH arrivals (7:36PM, 7:46PM and 7:56PM), the first group of whom must wait 26 minutes on the platform (followed by 16 and 6 minutes for the next two PATH trains).
 
-![waits](waits.png)
+![waits](graphs/waits.png)
 
 7:36PM is still very much part of the evening rush hour, and many commuters would be better served by more HBLR departures from Hoboken 7:00-9:00PM.  A 26-minute wait between PATH and HBLR legs could easily push a commute to over an hour (not including time getting to the PATH in Manhattan and walking time from HBLR to home in New Jersey).  HBLR departures from Hoboken 5:00-6:15 could be reduced slightly to compensate if necessary.
